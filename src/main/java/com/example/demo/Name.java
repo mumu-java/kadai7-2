@@ -1,10 +1,10 @@
 package com.example.demo;
 
-public class Namelist {
+public class Name {
     private String name;
     private String id;
 
-    public Namelist(String name, String id) {
+    public Name(String name, String id) {
         this.name = name;
         this.id = id;
     }
